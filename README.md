@@ -2,8 +2,8 @@
 # Projet Open Science - M1  ecologie et environnement - spécialité: bev
 
 ## Étudiant
-Nom : Djad
-Prénom : Ibrahim
+Nom : Rabah 
+Prénom : Ibrahim djad 
 
 ## Formation
 Master 1 Environnement
