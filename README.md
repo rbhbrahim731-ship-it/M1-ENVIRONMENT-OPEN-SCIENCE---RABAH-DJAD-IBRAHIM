@@ -27,3 +27,6 @@ Les outils Open Source facilitent le partage, la collaboration et la reproductib
 ## Objectif de l'analyse environnementale
 
 Cette analyse permet d'étudier les variations des paramètres environnementaux et leur influence sur la biodiversité.
+## Analyse des précipitations
+
+L'étude des précipitations permet de suivre les variations temporelles des conditions hydrologiques et météorologiques. Elle contribue à comprendre les changements environnementaux et leurs effets sur les écosystèmes.
