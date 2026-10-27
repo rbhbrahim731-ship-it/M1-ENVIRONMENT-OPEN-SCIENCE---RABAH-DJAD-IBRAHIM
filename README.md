@@ -24,3 +24,6 @@ Les données environnementales peuvent concerner la température, les précipita
 ## Intérêt de l'Open Source
 
 Les outils Open Source facilitent le partage, la collaboration et la reproductibilité des travaux scientifiques.
+## Objectif de l'analyse environnementale
+
+Cette analyse permet d'étudier les variations des paramètres environnementaux et leur influence sur la biodiversité.
