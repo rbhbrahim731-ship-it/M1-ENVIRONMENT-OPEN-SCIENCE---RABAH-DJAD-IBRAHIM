@@ -1,5 +1,5 @@
 # M1-ENVIRONMENT-OPEN-SCIENCE---RABAH-DJAD-IBRAHIM
-# Projet Open Science - M1  ecologie et environnement - spécialité: bev
+# Projet Open Science - M1  ecologie et environnement - spécialité: biodiversité et écologie végétale 
 
 ## Étudiant
 Nom : Rabah 
